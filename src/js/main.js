@@ -1,3 +1,8 @@
 // You can include your own javascript here
 // alert("hello, your main.js file was added properly.");
-console.log("Logging from main.js, it was loaded.");
+function side_nav_open(){
+    document.getElementById("side-nav").style.display="block";
+}
+function side_nav_close(){
+    document.getElementById("side-nav").style.display="none";
+}
