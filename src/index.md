@@ -5,5 +5,5 @@ tags: navItem
 ---
 # {{title}}
 
-My Home Page!
+
 
