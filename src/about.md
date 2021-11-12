@@ -8,7 +8,7 @@ tags: navItem
     <!--header content-->
 <div class="logo-space">
     <div class="head-logo">
-        <a href="index.html"><img src='/images/logo.png' alt="Logo"></a>
+        <a href="/index/"><img src='/images/logo.png' alt="Logo"></a>
     </div>
 </div>
 
